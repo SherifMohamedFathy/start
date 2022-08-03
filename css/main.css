@@ -115,7 +115,7 @@ ul {
     background-color: #1e2325;
 }
 .header:hover  .head  {
-/* right: 0; */
+right: 0;
 }
 .header .container {
     text-align: center;
